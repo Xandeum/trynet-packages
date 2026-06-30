@@ -1022,3 +1022,19 @@ Priority: optional
 Homepage: https://github.com/xandeum/pod
 Description: High-performance blockchain node implementation for the Xandeum network
 
+Package: pod
+Version: 1.4.1~trynet.20260630164622.3fe6c22-1
+Architecture: amd64
+Maintainer: Xandeum Labs
+Installed-Size: 13249
+Depends: libc6 (>= 2.38), libssl3t64 (>= 3.0.0)
+Filename: pool/main/pod_1.4.1~trynet.20260630164622.3fe6c22-1_amd64.deb
+Size: 3635660
+MD5sum: ed360570e7accd5bc9534c0d8b4f68b6
+SHA1: e5944ef6257eabf70212b8c0a94a3c85f39999ac
+SHA256: b96c7ea1696379f2b65e2d80bad0e0c49f8623dd27c1dc77ecb8a624d50e2120
+Section: net
+Priority: optional
+Homepage: https://github.com/xandeum/pod
+Description: High-performance blockchain node implementation for the Xandeum network
+
